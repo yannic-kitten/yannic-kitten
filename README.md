@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yannic-kitten
 - 💼 I work at @FZJ-JSC on Complex Particle Systems
-- 👀 I’m interested in HPC and Scientific Computing and Mathematics
+- 👀 I’m interested in Mathematics, HPC and Scientific Computing
 
 - 💻 My private accout is @Smintheus98
 
