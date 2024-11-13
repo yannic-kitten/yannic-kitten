@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @yannic-kitten
 - 💼 I work at @FZJ-JSC on Complex Particle Systems
-- 👀 I’m interested in HPC and Scientific Computing
+- 👀 I’m interested in HPC and Scientific Computing and Mathematics
+
+- 💻 My private accout is @Smintheus98
 
 <!---
 yannic-kitten/yannic-kitten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
